@@ -1,8 +1,8 @@
-Local KML drawing on Google map{#mainpage}
+Local KML drawing on Google map
 ====================================
 
 ## Requirements ##
-Add your Google map API key at the below position.
+* Add your Google map API key at the below position.
 <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
 </script>
